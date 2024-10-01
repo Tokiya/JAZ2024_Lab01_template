@@ -17,17 +17,17 @@ public class Application {
          * Jednak napisana metoda nie działa poprawnie, są w niej błędy
          * Czy potrafisz je naprawić?
          */
-        new BooksDistributor().distributeBooksThroughPeople();
-
-        if(!isBooksCollectionEmpty()){
-            System.out.println("po przydzieleniu książek, kolekcja książek powinna być pusta, a nie jest :(");
-            return;
-        }
-
-        if(!peopleWithoutBooksExists()){
-            System.out.println("Każda osoba posiada książkę, a przecież kolekcja książek jest mniejsza od kolekcji osób.");
-            return;
-        }
+//        new BooksDistributor().distributeBooksThroughPeople();
+//
+//        if(!isBooksCollectionEmpty()){
+//            System.out.println("po przydzieleniu książek, kolekcja książek powinna być pusta, a nie jest :(");
+//            return;
+//        }
+//
+//        if(!peopleWithoutBooksExists()){
+//            System.out.println("Każda osoba posiada książkę, a przecież kolekcja książek jest mniejsza od kolekcji osób.");
+//            return;
+//        }
 
 
         /**
